@@ -1,0 +1,6 @@
+services:
+  auth: "http://auth-service:3000"
+  items: "http://item-service:3001"
+  transactions: "http://transaction-service:3002"
+  notifications: "http://notification-service:3003"
+  community: "http://community-service:3004"
